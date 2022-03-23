@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url('https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.input {
+    text-align: center;
+    margin: 100px auto;
+}
+
+button {
+    padding: 15px 30px;
+    background: orange;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#input_text {
+    height: 55;
+    width: 600;
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.container {
+    width: 50%;
+    background-color: rgb(138, 132, 132);
+    height: 40vh;
+    margin: 50px auto;
+    border-radius: 20px;
+}
+
+h1 {
+    padding: 5px 0;
+    text-align: center;
+    color: saddlebrown;
+}
+
+p {
+    text-align: center;
+    margin: 40px 0;
+    font-size: 20px;
+}
